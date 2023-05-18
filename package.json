@@ -1,0 +1,10 @@
+{
+  "name": "logseq",
+  "version": "1.0.0",
+  "description": "Plugin for Logseq",
+  "main": "index.js",
+  "repository": "https://github.com/tylerrowsell/logseq",
+  "author": "Tyler Rowsell",
+  "license": "MIT",
+  "private": false
+}
